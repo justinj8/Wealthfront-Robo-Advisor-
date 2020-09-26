@@ -1,6 +1,8 @@
 # Wealthfront (Robo Advisor)
 
-![image](image.png)
+![Screenshot](./image.png)
+
+
 
 
 
