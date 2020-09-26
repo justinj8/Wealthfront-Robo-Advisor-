@@ -30,3 +30,6 @@ https://www.investopedia.com/wealthfront-review-4587933
 
 https://www.wealthfront.com
 
+https://en.wikipedia.org/wiki/Wealthfront
+
+https://money.usnews.com/investing/investing-101/articles/2018-06-27/6-of-the-newest-trends-in-robo-advisors
