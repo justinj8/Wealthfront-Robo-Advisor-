@@ -24,6 +24,8 @@ Wealthfront seems to be growing as the robo advising landscape is trending. They
 
 If I could recommend any advice to the company, it would be to decrease the account minimum to compete with their industry competitors' standards and keep educating the everyday investor that the technologies that the company is using is trustworthy and accurate compared to the traditional financial advisor. The company needs to keep offering more products and services because that is what customers are accustomed to with traditional banks/investment managers/financial advisors, etc. By doing so, the company and the industry can legitimately compete in the traditional financial landscape. 
 
+_______________________________
+
 ### Appendix
 
 https://www.nerdwallet.com/reviews/investing/advisors/wealthfront
