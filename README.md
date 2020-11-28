@@ -1,5 +1,7 @@
 # Wealthfront (Robo Advisor)
 
+### FinTech Company Analysis
+
 ![image](image.png)
 
 ## Overview
